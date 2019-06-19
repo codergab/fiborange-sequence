@@ -1,6 +1,6 @@
-# nuxtfibo
+# NuxtFibo
 
-> My badass Nuxt.js project
+> Fibonacci Range Calculator
 
 ## Build Setup
 
